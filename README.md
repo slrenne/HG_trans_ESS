@@ -3,8 +3,7 @@ The project repository for the HG_trans_ESS study.
 
 ## _Aim_
 We aim to understand the role of specific translocations in rearranged high grade endometrial stromal sarcoma.
-To do this we will perform a Bayesian analysis of the published series and of our cases (partly presented at the European Congress of Pathology). [^1]
-
+To do this we will perform a Bayesian analysis of the published series and of our cases (partly presented at the European Congress of Pathology).<sup>[1](#myfootnote1)</sup>
 ## _Structure_ 
 ### Retrospective series
 
@@ -43,5 +42,5 @@ Directed acyclic graphs (DAGs) will be designed. Implied conditional independenc
 DAGs and models will be stored in analysis/priors/.
 
 ## _Reference_ 
-[^1]: Renne SL, Collini P, Dagrada GP, Gronchi A, Radaelli S, Sanfilippo R, Lorusso D, Raspagliesi F, Paolini B. BCOR rearranged endometrial stromal sarcoma (ESS). A clinicopathological study of four cases. Virchows Archiv, 473, 2018 p. S35, ISSN: 0945-6317
+ <a name="myfootnote1">1</a>: Renne SL, Collini P, Dagrada GP, Gronchi A, Radaelli S, Sanfilippo R, Lorusso D, Raspagliesi F, Paolini B. BCOR rearranged endometrial stromal sarcoma (ESS). A clinicopathological study of four cases. Virchows Archiv, 473, 2018 p. S35, ISSN: 0945-6317
 
