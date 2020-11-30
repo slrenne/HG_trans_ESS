@@ -38,7 +38,7 @@ The prior distributions for the variables will be chosen following the maximum e
 Distributions and plots of prior predictive simulations will be stored in analysis/priors/.
 
 **Models**
-Directed acyclic graphs (DAGs) will be designed. Implied conditional independencies will be calculated. Each variable will be modeled in the whole dataset and in the different translocation categories. Relevance of common prognosticators will be considered. GLM on survival status and survival analysis exponential models will be performed. When more than one plausible model will be used, in the context of model comparison, cross validation criteria and widely applicable information criteria will be analyzed. 
+Directed acyclic graphs (DAGs) will be designed. Each variable will be modeled in the whole dataset and in the different rearrangement categories. Relevance of common prognosticators will be considered. GLM on survival status and survival analysis exponential models will be performed. 
 DAGs and models will be stored in analysis/priors/.
 
 ## _Reference_ 
